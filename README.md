@@ -2,6 +2,8 @@
 
 'mil-pulse-spinner' is a loading spinner that exposes a pulse animation. It uses lit-element and can be used with any webcomponent.
 
+Demo: https://stackblitz.com/edit/mil-pulse-spinner-example?file=index.js
+
 ## Usage
 
 ### Install from npm
